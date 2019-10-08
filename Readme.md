@@ -2,6 +2,8 @@
 
 A very "useful" script makes your linux shell have
 
+[![asciicast](https://asciinema.org/a/y7KBGw5JE3BDE4gwLc4Z2O1Td.svg)](https://asciinema.org/a/y7KBGw5JE3BDE4gwLc4Z2O1Td)
+
 <pre style="line-height: 1em;">
 <span style="color: red;"> ▄▄▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄  </span><span style="color: green;">       ▄▄▄▄▄▄▄▄        ▄▄▄▄  </span><span style="color: blue;">  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄ </span>
 <span style="color: red;"> ███▀▀▀▀▀▀▀▀████▄    ████  </span><span style="color: green;">    ▄████▀▀▀▀████▄     ████  </span><span style="color: blue;">  ███▀▀▀▀▀▀▀███▄    ████ </span>
