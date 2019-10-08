@@ -1,10 +1,10 @@
-# YES, <span style="color: red;">R!</span><span style="color: green;">G!</span><span style="color: blue;">B!</span>
+# YES, <span class="text-red">R!</span><span class="text-green">G!</span><span class="text-blue">B!</span>
 
 A very "useful" script makes your linux shell have
 
 ![](https://bakaya.ro/picture/rgb1.png)
 
-Everyone loves <span style="color: red;">R</span><span style="color: green;">G</span><span style="color: blue;">B</span>, it's common sense. Now I can't even imagine how we use linux command line year by year without
+Everyone loves RGB, it's common sense. I can't even imagine how we use linux command line year by year without
 
 ![](https://bakaya.ro/picture/rgb2.png)
 
